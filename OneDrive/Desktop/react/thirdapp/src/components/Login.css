@@ -1,0 +1,10 @@
+.container{
+    text-align: center;
+    margin-top: 100px; /* half of you height */
+    border : 1px black solid;
+    border-radius: 25px;
+    width: 30%;
+    height: 300px;
+    margin-bottom: 50px;
+}
+

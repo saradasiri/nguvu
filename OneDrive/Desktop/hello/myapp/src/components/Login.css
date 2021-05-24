@@ -1,0 +1,16 @@
+.login {
+  display: flex;
+  flex-direction: center;
+  align-items: center;
+  justify-content: center;
+  height: 50vh;
+  font-family: "Inter";
+  border-radius: 2px black;
+}
+.login_form {
+  display: flex;
+  flex-direction: column;
+}
+.login_form > h1 {
+  font-size: 35px;
+}
