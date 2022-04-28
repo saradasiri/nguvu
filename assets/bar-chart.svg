@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32.209" height="33.61" viewBox="0 0 32.209 33.61">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#0057dc"/>
+      <stop offset="0.202" stop-color="#036fe6"/>
+      <stop offset="0.537" stop-color="#0890f3"/>
+      <stop offset="0.815" stop-color="#0ba5fc"/>
+      <stop offset="1" stop-color="#0cacff"/>
+    </linearGradient>
+  </defs>
+  <g id="bar-chart" transform="translate(-10.666)">
+    <path id="Path_91" data-name="Path 91" d="M17.235,277.369a.7.7,0,0,0-.763.151l-2.305,2.306-2.305-2.306a.7.7,0,0,0-1.2.5v14a.7.7,0,0,0,.7.7h5.6a.7.7,0,0,0,.7-.7v-14A.7.7,0,0,0,17.235,277.369Z" transform="translate(0 -259.11)" fill="url(#linear-gradient)"/>
+    <path id="Path_92" data-name="Path 92" d="M142.663,192.2a.7.7,0,0,0-.99,0l-2.8,2.8a.7.7,0,0,0-.206.5v16.8a.7.7,0,0,0,.7.7h5.6a.7.7,0,0,0,.7-.7v-16.8a.7.7,0,0,0-.2-.5Z" transform="translate(-119.598 -179.389)" fill="url(#linear-gradient)"/>
+    <path id="Path_93" data-name="Path 93" d="M270.663,149.53a.7.7,0,0,0-.99,0l-2.8,2.8a.7.7,0,0,0-.206.5v19.606a.7.7,0,0,0,.7.7h5.6a.7.7,0,0,0,.7-.7V152.827a.7.7,0,0,0-.2-.5Z" transform="translate(-239.195 -139.523)" fill="url(#linear-gradient)"/>
+    <path id="Path_94" data-name="Path 94" d="M401.464,108.272l-1.4-1.4a.7.7,0,0,0-.5-.2h-1.4a.7.7,0,0,0-.5.2l-2.8,2.8a.7.7,0,0,0-.2.5v22.406a.7.7,0,0,0,.7.7h5.6a.7.7,0,0,0,.7-.7V108.768A.7.7,0,0,0,401.464,108.272Z" transform="translate(-358.793 -99.665)" fill="url(#linear-gradient)"/>
+    <path id="Path_95" data-name="Path 95" d="M42.308,0h-4.2a.7.7,0,0,0-.5,1.2l1.606,1.6L33.905,8.113,31.6,5.806a.7.7,0,0,0-.99,0L25.5,10.913,23.2,8.607a.7.7,0,0,0-.99,0L14.3,16.515l-2.305-2.306a.7.7,0,0,0-.99.99l2.8,2.8a.7.7,0,0,0,.99,0L22.7,10.093,25.007,12.4a.7.7,0,0,0,.99,0L31.1,7.292,33.41,9.6a.7.7,0,0,0,.99,0l5.807-5.806,1.6,1.6a.7.7,0,0,0,.5.206.692.692,0,0,0,.268-.053.7.7,0,0,0,.433-.647V.7A.7.7,0,0,0,42.308,0Z" transform="translate(-0.133)" fill="#ff9d00"/>
+  </g>
+</svg>
